@@ -15,7 +15,7 @@ function openTab(event,tagName) {
 
 const message = document.getElementById("msg");
 
-function showMessage(event){
-    const form = document.getElementById("form");
-    form.reset();
-}
+// function showMessage(event){
+//     const form = document.getElementById("form");
+//     form.reset();
+// }
